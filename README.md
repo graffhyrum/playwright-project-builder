@@ -15,8 +15,9 @@ This project is a Playwright test runner built with TypeScript and JavaScript.
 
 ## Summary
 
-This project is a Playwright test project config factory. It is built with TypeScript and JavaScript. It is designed to
-be a starting point for Playwright projects. By setting environment variables for each environment you would want to test, you can execute a setup project, your test suite against all enabled environments, and a teardown project. 
+This project is a Playwright test project template and code library. It is built with TypeScript and JavaScript. Much of the
+contents were inspired by or made during my work on the first major QA automation project I did professionally. Some parts
+will be good, and other parts assuredly less so. This is part portfolio showcase, part nostalgia, and part reference project.
 
 
 
@@ -63,7 +64,6 @@ npm test
 ## Built With
 
 - [TypeScript](https://www.typescriptlang.org/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Playwright](https://playwright.dev/)
 
 ## Authors
