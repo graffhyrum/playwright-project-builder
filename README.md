@@ -36,7 +36,7 @@ purposes.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/graffhyrum/playwright-project-builder.git
+git clone https://github.com/graffhyrum/playwright-project-demo.git
 ```
 
 2. Install dependencies
