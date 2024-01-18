@@ -1,4 +1,4 @@
-# Playwright Project Builder
+# Playwright Project Showcase
 
 This project is a Playwright test runner built with TypeScript and JavaScript.
 
